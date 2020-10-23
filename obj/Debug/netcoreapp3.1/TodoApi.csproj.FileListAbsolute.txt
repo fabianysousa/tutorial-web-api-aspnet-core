@@ -10,8 +10,6 @@ C:\Users\fabiany_costa\Desktop\Projetos\TodoApi\bin\Debug\netcoreapp3.1\TodoApi.
 C:\Users\fabiany_costa\Desktop\Projetos\TodoApi\obj\Debug\netcoreapp3.1\TodoApi.csprojAssemblyReference.cache
 C:\Users\fabiany_costa\Desktop\Projetos\TodoApi\obj\Debug\netcoreapp3.1\TodoApi.AssemblyInfoInputs.cache
 C:\Users\fabiany_costa\Desktop\Projetos\TodoApi\obj\Debug\netcoreapp3.1\TodoApi.AssemblyInfo.cs
-C:\Users\fabiany_costa\Desktop\Projetos\TodoApi\obj\Debug\netcoreapp3.1\TodoApi.csproj.CoreCompileInputs.cache
-C:\Users\fabiany_costa\Desktop\Projetos\TodoApi\obj\Debug\netcoreapp3.1\TodoApi.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\fabiany_costa\Desktop\Projetos\TodoApi\obj\Debug\netcoreapp3.1\TodoApi.RazorTargetAssemblyInfo.cache
 C:\Users\fabiany_costa\Desktop\Projetos\TodoApi\obj\Debug\netcoreapp3.1\staticwebassets\TodoApi.StaticWebAssets.Manifest.cache
 C:\Users\fabiany_costa\Desktop\Projetos\TodoApi\obj\Debug\netcoreapp3.1\staticwebassets\TodoApi.StaticWebAssets.xml
