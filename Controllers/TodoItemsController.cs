@@ -35,9 +35,11 @@ using TodoApi.Models;
     API : interface para comunicação entre sistemas
  */
 
+// Async/await : são promessas
+
 namespace TodoApi.Controllers
 {
-    [Route("api/[controller]")]
+    [Route("api/TodoItems")]
     [ApiController]
     public class TodoItemsController : ControllerBase
     {
@@ -52,10 +54,9 @@ namespace TodoApi.Controllers
         // Solicita a representação de um recurso específico
         // Retorna apenas dados
         [HttpGet]
-        [HttpGet]
-        public async Task<ActionResult<IEnumerable<TodoItem>>> GetTodoItems()
+        public Task<List<TodoItem>> GetTodoItems()
         {
-            return await _context.TodoItems.ToListAsync();
+            return _context.TodoItems.ToListAsync();
         }
 
         // GET: api/TodoItems/5
@@ -73,6 +74,9 @@ namespace TodoApi.Controllers
         }
 
         // PUT: api/TodoItems/5
+        // Exige que o cliente envie a entidade inteira atualizada, não apenas as alterações.
+
+        // PATCH : da suporte para altualizações parciais
 
         [HttpPut("{id}")]
         public async Task<IActionResult> PutTodoItem(long id, TodoItem todoItem)
