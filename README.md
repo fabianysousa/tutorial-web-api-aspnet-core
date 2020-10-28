@@ -38,7 +38,7 @@ Esse tutorial cria a seguinte API:
 |------------|
 |É um conjunto de classes que representam os dados gerenciados pelo aplicativo.|
 
-**3. Foi adicionando o contexto de banco de dados adicionando pacotes NuGet *Microsoft.EntityFrameworkCore.SqlServer* e  *EntityFrameworkCore. inmemory*. Na aplicação o contexto de banco de dados é classe *TodoContext* presente no *Model* da aplicação.** 
+📌 **3. Foi adicionando o contexto de banco de dados adicionando pacotes NuGet *Microsoft.EntityFrameworkCore.SqlServer* e  *EntityFrameworkCore. inmemory*. Na aplicação o contexto de banco de dados é classe *TodoContext* presente no *Model* da aplicação.** 
 
 |Contexto de banco de dados|
 |--------------------------|
