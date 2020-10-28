@@ -30,7 +30,7 @@ Esse tutorial cria a seguinte API:
 
 |Json        |
 |------------|
-|É uma formatação leve de troca de dados. *JSON é em formato texto e completamente independente de linguagem, pois usa convenções que são familiares às linguagens C e familiares, incluindo *C++*, *C#*, *Java*, *JavaScript*, *Perl*, *Python* e muitas outras. Logo, é ideal para troca de dados.|
+|É uma formatação leve de troca de dados. *JSON* é em formato texto e completamente independente de linguagem, pois usa convenções que são familiares às linguagens C e familiares, incluindo *C++*, *C#*, *Java*, *JavaScript*, *Perl*, *Python* e muitas outras. Logo, é ideal para troca de dados.|
 
 📌 **2. Posteriormente foi adicionado uma classe Model. Em que na aplicação o modelo para esse aplicativo é uma unica classe *TodoItem*.** 
 
