@@ -100,6 +100,11 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias:
 ---
 
 ## ☄️ Como baixar o projeto
+Pré-requisitos:
+
+[Visual Studio 2019 16.4](https://visualstudio.microsoft.com/downloads/?utm_medium=microsoft&utm_source=docs.microsoft.com&utm_campaign=inline+link&utm_content=download+vs2019) ou posterior
+
+[.NET Core 3.1 SDK](https://dotnet.microsoft.com/download/dotnet-core/3.1) ou  ou posterior
 
 No promit command:
 
